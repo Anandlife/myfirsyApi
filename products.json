@@ -1,0 +1,32 @@
+[
+
+    {
+        "name": "macbook m3",
+        "price": 1500,
+        "feature": true,
+        "company":"apple"
+    },
+
+    {
+        "name": "watch",
+        "price": 1000,
+        "feature": true,
+        "company":"apple"
+
+    },
+    {
+        "name": "ipad",
+        "price": 2000,
+        "company":"apple"
+    },
+    {
+        "name": "lenovo s1",
+        "price": 1400,
+        "company":"microsoft"
+    },
+    {
+        "name": "dell s3",
+        "price": 1600,
+        "company":"dell"
+    }
+]
